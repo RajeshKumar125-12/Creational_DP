@@ -1,0 +1,8 @@
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\Motor\bin\Debug\Motor.exe.config
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\Motor\bin\Debug\Motor.exe
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\Motor\bin\Debug\Motor.pdb
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\Motor\obj\Debug\Motor.csproj.AssemblyReference.cache
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\Motor\obj\Debug\Motor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\Motor\obj\Debug\Motor.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\Motor\obj\Debug\Motor.exe
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\Motor\obj\Debug\Motor.pdb
