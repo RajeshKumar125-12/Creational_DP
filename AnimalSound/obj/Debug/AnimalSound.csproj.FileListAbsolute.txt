@@ -1,0 +1,8 @@
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\AnimalSound\bin\Debug\AnimalSound.exe.config
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\AnimalSound\bin\Debug\AnimalSound.exe
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\AnimalSound\bin\Debug\AnimalSound.pdb
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\AnimalSound\obj\Debug\AnimalSound.csproj.AssemblyReference.cache
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\AnimalSound\obj\Debug\AnimalSound.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\AnimalSound\obj\Debug\AnimalSound.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\AnimalSound\obj\Debug\AnimalSound.exe
+C:\Users\Rajesh_Kumar1\source\repos\AnimalSound\AnimalSound\obj\Debug\AnimalSound.pdb
